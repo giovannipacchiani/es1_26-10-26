@@ -17,7 +17,8 @@ di soccorso. In simulazione:
 """
 
 from sim_link import get_world
-
+"ciao"
+"dasdassdas"
 
 class _ButtonPin:
     """Sostituto minimale di gpiozero.Button: espone solo ciò che
